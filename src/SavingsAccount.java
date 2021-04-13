@@ -1,6 +1,6 @@
 /**
  * this class represents the savings account of a customer
- * @author Mark KasuleF
+ * @author Mark Kasule
  *
  */
 public class SavingsAccount extends BankAccount{
