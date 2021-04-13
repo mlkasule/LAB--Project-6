@@ -1,5 +1,6 @@
 /**
  * This class represents the checking account
+ * 
  * @author mark kasule
  *
  */
